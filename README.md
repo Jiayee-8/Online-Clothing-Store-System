@@ -15,32 +15,32 @@ The project aims to improve inventory management, automate payment calculations,
 - Customer registration and login
 - Admin registration and login
 - Role-based access control
-# Product Management
+## Product Management
 - View products
 - Add products
 - Edit products
 - Delete products
 - Manage product categories
-# Inventory Management
+## Inventory Management
 - View stock levels
 - Update inventory
 - Prevent invalid stock quantities
-# Shopping Cart & Order Management
+## Shopping Cart & Order Management
 - Browse products
 - Add items to cart
 - Update cart
 - Remove items from cart
 - Checkout process
-# Discount System
+## Discount System
 Fixed discount
 Tier-based discount
 Voucher code support
 Automatic price calculation
-# Payment Management
+## Payment Management
 - Multiple payment methods
 - Payment validation
 - Receipt generation
-# Reporting
+## Reporting
 - Monthly Sales Report
 - Gross Profit Report
 
@@ -62,7 +62,8 @@ The SQL schema is included in:
 
 online_clothing_store.sql
 
-Project Structure
+# Project Structure
+
 Main.cpp
 
 Database.cpp
@@ -87,9 +88,13 @@ online_clothing_store.sql
 
 # My Contribution
 Designed and implemented a database-driven clothing store management system
+
 Integrated MySQL database with C++ application
+
 Developed modules for user, product, payment, discount, and report management
+
 Implemented CRUD operations for business data
+
 Built sales and gross profit reporting functionality
 
 # Future Improvements
@@ -105,4 +110,5 @@ Potential future enhancements include:
 # Project Type
 
 Academic Project
+
 Universiti Teknikal Malaysia Melaka (UTeM)
